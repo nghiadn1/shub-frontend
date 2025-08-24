@@ -1,0 +1,20 @@
+{
+  "name": "task4-structure-algorithm",
+  "version": "1.0.0",
+  "description": "Prefix Sum Algorithm Solution for Range Queries",
+  "main": "solution.js",
+  "scripts": {
+    "start": "node solution.js"
+  },
+  "keywords": [
+    "algorithm",
+    "prefix-sum",
+    "range-queries",
+    "data-structures"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
