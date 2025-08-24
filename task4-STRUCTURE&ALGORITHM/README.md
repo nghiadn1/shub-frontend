@@ -1,5 +1,7 @@
 # Task 4 - Prefix Sum Solution
 
+**Ngôn ngữ:** JavaScript (Node.js)
+
 ## Mô tả bài toán
 
 Xử lý truy vấn đoạn trên mảng với 2 loại:
@@ -73,4 +75,3 @@ Tự động:
 - `l` lẻ: đổi dấu cho alternating sum
 - Mỗi truy vấn O(1) sau tiền xử lý
 
-Mình đã test thử với nhiều bộ dữ liệu, thuật toán chạy nhanh và kết quả khớp với yêu cầu đề.
